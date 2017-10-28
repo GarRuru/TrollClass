@@ -1,4 +1,4 @@
-﻿我覺得可以
+/*我覺得可以
 Ech denken, ech kann (盧森堡文)
 私はできると思う (日文)
 Би чадна гэж бодож байна (蒙古文)
@@ -9,8 +9,12 @@ Ech denken, ech kann (盧森堡文)
 我恨你
 Mo korira nyin(優魯巴文)
 나는 너를 싫어.(韓文)
-Ndinokuvengai(紹納文)
+Ndinokuvengai(紹納文)*/
+
 我好倒霉
 Я так дрэнна(白俄羅斯文)
 Ez gelek xemgîn im(庫德文)
 Jag är så otur(瑞典文)
+Abdi jadi macet(印尼文)
+Jeg er så uflaks(挪威文)
+Είμαι τόσο κακή τύχη(希臘文)
